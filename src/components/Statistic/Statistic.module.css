@@ -1,0 +1,30 @@
+.title{
+    margin-top: 50px;
+    text-align: center;
+    width: 500px;
+    background-color: azure;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.statList{
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.item{
+    width: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.label{
+    display: block;
+    font-weight: bold;
+}
+
+.percentge{
+    display: block;
+}
